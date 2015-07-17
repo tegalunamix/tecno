@@ -1,0 +1,72 @@
+/**
+ # mod_otmininews       OT Mini News Module for Joomla! 1.7
+ # author               OmegaTheme.com
+ # copyright            Copyright(C) 2011 - OmegaTheme.com. All Rights Reserved.
+ # @license             http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL
+ # Website:             http://omegatheme.com
+ # Technical support:   Forum - http://omegatheme.com/forum/
+**/
+/**------------------------------------------------------------------------
+ * file:    layout.css 1.7.0 00001, March 2011 12:00:00Z OmegaTheme $
+ * package: OT Mini News Module
+ *------------------------------------------------------------------------*/
+img {
+    border: none;
+}
+.ot_news,
+.ot_news .ot_items,
+.ot_news .ot_viewall,
+.ot_news .spaces {
+    width: 100%;
+    float: left;
+}
+.ot_news .ot_items {
+    padding-bottom: 8px;
+    border-bottom: 1px #ccc dotted;
+}
+.ot_news .last-item {
+    border: none;
+    padding-bottom: 0px;
+}
+.ot_news .ot_viewall {
+    text-align: right;
+}
+.ot_news .spaces {
+    height: 10px;
+}
+.ot_thumbs {
+    float: left;
+    padding: 2px;
+    border: 1px #e7e7e7 solid;
+    margin-right: 12px;
+    overflow: hidden;
+}
+.ot_articles {}
+.ot_articles .ot_title {}
+.ot_title a.title {
+    font-weight: bold;
+}
+p.createddate {
+    padding: 2px 0;
+    margin: 0;
+}
+span.ot_date {
+    color: #999;
+    font-size: 12px;
+}
+.ot_readmore {
+    margin-top: 5px;
+    text-align: right;
+}
+a.ot-mini-news {
+    color: #999999 !important;
+    float: right;
+    font-size: 11px !important;
+    outline: medium none;
+    padding: 0 !important;
+    text-decoration: none;
+}
+div.ot-mini-news a:hover, div.ot-mini-news a:active, div.ot-mini-news a:focus {
+    background: none repeat scroll 0 0 transparent !important;
+    text-decoration: underline;
+}

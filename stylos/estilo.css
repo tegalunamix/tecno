@@ -1,0 +1,37 @@
+BODY {
+ margin: 0px;
+}
+TD {
+ FONT-FAMILY:  Verdana, Arial, Helvetica; FONT-SIZE: 11px; COLOR: #000000; LINE-HEIGHT: 15px; TEXT-ALIGN: left;
+ line-height: 1.5;
+}
+.bordeamarillo {
+	BORDER-RIGHT: #FFFF00 1px solid; BORDER-TOP: #FFFF00 1px solid; BORDER-LEFT: #FFFF00 1px solid; BORDER-BOTTOM: #FFFF00 1px solid
+}
+.bordeazul {
+	BORDER-RIGHT: #0066cc 1px solid; BORDER-TOP: #0066cc 1px solid; BORDER-LEFT: #0066cc 1px solid; BORDER-BOTTOM: #0066cc 1px solid
+}
+.borderojo {
+	BORDER-RIGHT: #FF0000 1px solid; BORDER-TOP: #FF0000 1px solid; BORDER-LEFT: #FF0000 1px solid; BORDER-BOTTOM: #FF0000 1px solid
+}
+.borderojooscuro {
+	BORDER-RIGHT: #5C0101 1px solid; BORDER-TOP: #5C0101 1px solid; BORDER-LEFT: #5C0101 1px solid; BORDER-BOTTOM: #5C0101 1px solid
+}
+.bordeceleste {
+	BORDER-RIGHT: #45B5FE 1px solid; BORDER-TOP: #45B5FE 1px solid; BORDER-LEFT: #45B5FE 1px solid; BORDER-BOTTOM: #45B5FE 1px solid
+}
+.bordemorado {
+	BORDER-RIGHT: #8C2F5E 1px solid; BORDER-TOP: #8C2F5E 1px solid; BORDER-LEFT: #8C2F5E 1px solid; BORDER-BOTTOM: #8C2F5E 1px solid
+}
+.bordenaranja {
+	BORDER-RIGHT: #FFCC00 1px solid; BORDER-TOP: #FFCC00 1px solid; BORDER-LEFT: #FFCC00 1px solid; BORDER-BOTTOM: #FFCC00 1px solid
+}
+.bordeplomo {
+	BORDER-RIGHT: #E8E8E8 1px solid; BORDER-TOP: #E8E8E8 1px solid; BORDER-LEFT: #E8E8E8 1px solid; BORDER-BOTTOM: #E8E8E8 1px solid
+}
+.bordenaranja {
+	BORDER-RIGHT: #FFCC00 1px solid; BORDER-TOP: #FFCC00 1px solid; BORDER-LEFT: #FFCC00 1px solid; BORDER-BOTTOM: #FFCC00 1px solid
+}
+.bordeverde {
+	BORDER-RIGHT:#8AF22D 1px solid; BORDER-TOP: #8AF22D 1px solid; BORDER-LEFT: #8AF22D 1px solid; BORDER-BOTTOM: #8AF22D 1px solid
+}

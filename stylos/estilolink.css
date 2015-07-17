@@ -1,0 +1,37 @@
+.menuplomo {
+	COLOR: #687982; TEXT-DECORATION: none; FONT-SIZE: 12px 
+}
+.menuplomo:hover {
+	COLOR: #0099CC; TEXT-DECORATION: none;FONT-SIZE: 12px; text-decoration: underline;
+}
+.menuplomo:active {
+	COLOR: #0099CC; TEXT-DECORATION: none;FONT-SIZE: 12px; text-decoration: underline;
+}
+.menupeq {
+	COLOR: #4E5A61; TEXT-DECORATION: none; FONT-SIZE: 10px 
+}
+.menupeq:hover {
+	COLOR: #4E5A61; TEXT-DECORATION: none;FONT-SIZE: 10px; text-decoration: underline;
+}
+.menulila {
+	COLOR: #9B005E; TEXT-DECORATION: none; FONT-SIZE: 12px 
+}
+.menulila:hover {
+	COLOR: #FF0099; TEXT-DECORATION: none;FONT-SIZE: 12px; text-decoration: underline;
+}
+.menuamarillo {
+	COLOR: #FFFF00; TEXT-DECORATION: none; FONT-SIZE: 11px 
+}
+.menuamarillo:hover {
+	COLOR: #FFFFFF; TEXT-DECORATION: none;FONT-SIZE: 11px; text-decoration: underline;
+}
+.menuanaranja {
+	COLOR: #FFFFFF;
+	TEXT-DECORATION: none;
+	FONT-SIZE: 10px
+}
+.menuanaranja:hover {
+	COLOR: #FFFFFF;
+	TEXT-DECORATION: none;
+	FONT-SIZE: 11px;
+}

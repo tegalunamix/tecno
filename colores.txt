@@ -1,0 +1,2 @@
+from(#508FCF) to(#2570bb)
+#1F61A3 color-stop(100%,#14508C

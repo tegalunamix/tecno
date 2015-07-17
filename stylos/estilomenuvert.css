@@ -1,0 +1,41 @@
+#vertmenu {
+	font-family: "Arial Rounded MT Bold";
+	font-size: 10px;
+	width: 265px;
+	padding: 0px;
+	margin: 0px;
+	background-color: #115793;
+}
+
+#vertmenu ul {
+ list-style: none;
+ margin: 0px;
+ padding: 0px;
+ border: none;
+}
+
+#vertmenu ul li {
+ margin: 0px;
+ padding: 0px;
+}
+
+#vertmenu ul li a {
+	font-size: 80%;
+	display: block;
+	border-bottom: 1px dashed #CCCCCC;
+	padding: 7px 0px 7px 0px;
+	text-decoration: none;
+	color: #FFFFFF;
+	width: 260px;
+	font-family: "Arial Rounded MT Bold";
+}
+
+#vertmenu ul li a:hover, #vertmenu ul li a:focus {
+	color: #0E487A;
+	background-color: #FFFFFF;
+}
+
+#vertmenu img {
+ margin: 0px 15px 2px 15px;
+ float:left; 
+} 

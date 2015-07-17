@@ -1,0 +1,58 @@
+.bordeplomo {
+	BORDER-RIGHT: #BBC4CC 1px solid;
+	BORDER-TOP: #BBC4CC 1px solid;
+	border-left: 1px solid #A06600;
+	BORDER-BOTTOM: #BBC4CC 1px solid;
+	border-radius: 3px;
+
+}
+.bordebody {
+	border: 2px solid #0E487A;
+	border-radius: 3px;
+
+}
+.bordeazul {
+	BORDER-RIGHT: #0066cc 1px solid; BORDER-TOP: #0066cc 1px solid; BORDER-LEFT: #0066cc 1px solid; BORDER-BOTTOM: #0066cc 1px solid
+}
+.borderojo {
+  BORDER-RIGHT: #FF0000 1px solid; 
+  BORDER-TOP: #FF0000 1px solid; 
+  BORDER-LEFT: #FF0000 1px solid; 
+  BORDER-BOTTOM: #FF0000 1px solid;
+  border-radius:3px;
+}
+.bordeazuloscuro {
+  BORDER-RIGHT: #042A4B 2px solid; 
+  BORDER-TOP: #042A4B 2px solid; 
+  BORDER-LEFT: #042A4B 2px solid; 
+  BORDER-BOTTOM: #042A4B 2px solid;
+  border-radius:3px;
+}
+.borderojooscuro {
+	BORDER-RIGHT: #5C0101 1px solid; BORDER-TOP: #5C0101 1px solid; BORDER-LEFT: #5C0101 1px solid; BORDER-BOTTOM: #5C0101 1px solid
+}
+.bordeceleste {
+  BORDER-RIGHT: #80FFFF 1px solid; BORDER-TOP: #80FFFF 1px solid; BORDER-LEFT: #80FFFF 1px solid; BORDER-BOTTOM: #80FFFF 1px solid;
+  border-radius:3px;
+}
+.bordemorado {
+	BORDER-RIGHT: #8C2F5E 1px solid; BORDER-TOP: #8C2F5E 1px solid; BORDER-LEFT: #8C2F5E 1px solid; BORDER-BOTTOM: #8C2F5E 1px solid
+}
+.bordenaranja {
+  BORDER-RIGHT: #FFCC00 1px solid; 
+  BORDER-TOP: #FFCC00 1px solid; 
+  BORDER-LEFT: #FFCC00 1px solid; 
+  BORDER-BOTTOM: #FFCC00 1px solid;
+  border-radius:3px;
+}
+.bordenaranja {
+	BORDER-RIGHT: #FFCC00 1px solid; BORDER-TOP: #FFCC00 1px solid; BORDER-LEFT: #FFCC00 1px solid; BORDER-BOTTOM: #FFCC00 1px solid
+}
+.bordeverde {
+	BORDER-RIGHT:#8AF22D 1px solid; BORDER-TOP: #8AF22D 1px solid; BORDER-LEFT: #8AF22D 1px solid; BORDER-BOTTOM: #8AF22D 1px solid
+}
+.bordeverde2 {
+  BORDER-RIGHT:#478DC7 1px solid; BORDER-TOP: #478DC7 1px solid; BORDER-LEFT: #478DC7 1px solid; BORDER-BOTTOM: #478DC7 1px solid;
+  border-radius:3px;
+
+}

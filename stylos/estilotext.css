@@ -1,0 +1,311 @@
+.doradoesp1 {
+	FONT-WEIGHT: bold; COLOR: #F5D805; FONT-SIZE: 10px; font-family: "Arial Narrow";
+}
+.blancoesp1 {
+	FONT-WEIGHT: bold; COLOR: #FFFFFF; FONT-SIZE: 10px; font-family: "Arial Narrow";
+}
+.plomoesp1 {
+	FONT-WEIGHT: bold; COLOR: #4E5A61; FONT-SIZE: 13px; font-family: "Arial Narrow";
+}
+.plomoesp2 {
+	COLOR: #4E5A61; FONT-SIZE: 9px;
+}
+.azulesp1 {
+  FONT-WEIGHT: bold; COLOR: #0099CC; FONT-SIZE: 15px; font-family: "Arial Narrow";
+  text-shadow: 0 1px 0 #FFFFFF;
+}
+.naranjaesp1 {
+	FONT-WEIGHT: bold; COLOR: #FF6600; FONT-SIZE: 9px;
+}
+.verdeesp1 {
+	FONT-WEIGHT: bold; COLOR: #339900; FONT-SIZE: 12px;
+}
+.verdeesp2 {
+	COLOR: #707025; FONT-SIZE: 12px;
+}
+.tnegro {
+	COLOR: #000000; FONT-SIZE: 10px;
+}
+.tnegro2 {
+	FONT-WEIGHT: bold; COLOR: #000000; FONT-SIZE: 10px;
+}
+.tnegro3 {
+	COLOR: #000000; FONT-SIZE: 11px;
+}
+.tnegro4 {
+	FONT-WEIGHT: bold; COLOR: #000000; FONT-SIZE: 11px;
+}
+.tnegro5 {
+	COLOR: #000000; FONT-SIZE: 12px;
+}
+.tnegro6 {
+	FONT-WEIGHT: bold; COLOR: #000000; FONT-SIZE: 12px;
+}
+.tnegro7 {
+	COLOR: #000000; FONT-SIZE: 13px;
+}
+.tnegro8 {
+	FONT-WEIGHT: bold; COLOR: #000000; FONT-SIZE: 13px;
+}
+.tpnegro {
+	#000000; FONT-SIZE: 10px; font-family: "Arial Narrow";
+}
+.tpnegro2 {
+	FONT-WEIGHT: bold; COLOR: #000000; FONT-SIZE: 10px; font-family: "Arial Narrow";
+}
+.tpnegro3 {
+	#000000; FONT-SIZE: 11px; font-family: "Arial Narrow";
+}
+.tpnegro4 {
+	FONT-WEIGHT: bold; COLOR: #000000; FONT-SIZE: 11px; font-family: "Arial Narrow";
+}
+.tpnegro5 {
+	#000000; FONT-SIZE: 12px; font-family: "Arial Narrow";
+}
+.tpnegro6 {
+	FONT-WEIGHT: bold; COLOR: #000000; FONT-SIZE: 12px; font-family: "Arial Narrow";
+}
+.tplomo {
+	COLOR: #687982; FONT-SIZE: 10px;
+}
+.tplomo2 {
+	FONT-WEIGHT: bold; COLOR: #687982; FONT-SIZE: 10px;
+}
+.tplomo3 {
+	COLOR: #687982; FONT-SIZE: 11px;
+}
+.tplomo4 {
+	FONT-WEIGHT: bold; COLOR: #687982; FONT-SIZE: 11px;
+}
+.tplomo5 {
+	COLOR: #687982; FONT-SIZE: 12px;
+}
+.tplomo6 {
+	FONT-WEIGHT: bold; COLOR: #687982; FONT-SIZE: 12px;
+}
+.tplomo7 {
+	COLOR: #687982; FONT-SIZE: 13px;
+}
+.tplomo8 {
+	FONT-WEIGHT: bold; COLOR: #687982; FONT-SIZE: 13px;
+}
+.tblanco {
+	COLOR: #FFFFFF; FONT-SIZE: 10px;
+}
+.tblanco2 {
+	FONT-WEIGHT: bold; COLOR: #FFFFFF; FONT-SIZE: 10px;
+}
+.tblanco3 {
+	COLOR: #FFFFFF; FONT-SIZE: 11px;
+}
+.tblanco4 {
+	FONT-WEIGHT: bold; COLOR: #FFFFFF; FONT-SIZE: 11px;
+}
+.tblanco5 {
+	COLOR: #FFFFFF; FONT-SIZE: 12px;
+}
+.tblanco6 {
+	FONT-WEIGHT: bold; COLOR: #FFFFFF; FONT-SIZE: 12px;
+}
+
+.tblanco7 {
+	COLOR: #FFFFFF; FONT-SIZE: 13px;
+}
+.tblanco8 {
+	FONT-WEIGHT: bold; COLOR: #FFFFFF; FONT-SIZE: 13px;
+}
+.blancox {
+	FONT-WEIGHT: bold; COLOR: #FFFFFF; FONT-SIZE: 12px; font-family: "Arial Narrow";
+}
+.blancox2 {
+	COLOR: #FFFFFF; FONT-SIZE: 17px; font-family: "Arial Narrow";
+}
+.blancox3 {
+	FONT-WEIGHT: bold; COLOR: #FFFFFF; FONT-SIZE: 17px; font-family: "Arial Narrow";
+}
+.blancox4 {
+	COLOR: #FFFFFF;
+	FONT-SIZE: 19px;
+	
+}
+.blancox5 {
+	FONT-WEIGHT: bold; COLOR: #FFFFFF; FONT-SIZE: 19px; font-family: "Arial Narrow";
+}
+
+.tazul {
+	COLOR: #0099CC; FONT-SIZE: 10px;
+}
+.tazul2 {
+	FONT-WEIGHT: bold; COLOR: #0099CC; FONT-SIZE: 10px;
+}
+.tazul3 {
+	COLOR: #0099CC; FONT-SIZE: 11px;
+}
+.tazul4 {
+	FONT-WEIGHT: bold; COLOR: #0099CC; FONT-SIZE: 11px;
+}
+.tazul5 {
+	COLOR: #0099CC; FONT-SIZE: 12px;
+}
+.tazul6 {
+	FONT-WEIGHT: bold; COLOR: #0099CC; FONT-SIZE: 12px;
+}
+.tazul7 {
+	COLOR: #0099CC; FONT-SIZE: 13px;
+}
+.tazul8 {
+	FONT-WEIGHT: bold; COLOR: #0099CC; FONT-SIZE: 13px;
+}
+.trojo {
+	COLOR: #FF0000; FONT-SIZE: 10px;
+}
+.trojo2 {
+	FONT-WEIGHT: bold; COLOR: #FF0000; FONT-SIZE: 10px;
+}
+.trojo3 {
+	COLOR: #FF0000; FONT-SIZE: 11px;
+}
+.trojo4 {
+	FONT-WEIGHT: bold; COLOR: #FF0000; FONT-SIZE: 11px;
+}
+.trojo5 {
+	COLOR: #FF0000; FONT-SIZE: 12px;
+}
+.trojo6 {
+	FONT-WEIGHT: bold; COLOR: #FF0000; FONT-SIZE: 12px;
+}
+.trojo7 {
+	COLOR: #FF0000; FONT-SIZE: 13px;
+}
+.trojo8 {
+	FONT-WEIGHT: bold; COLOR: #FF0000; FONT-SIZE: 13px;
+}
+.trojo9 {
+	COLOR: #FF0000; FONT-SIZE: 14px;
+}
+.trojo10 {
+	FONT-WEIGHT: bold; COLOR: #FF0000; FONT-SIZE: 14px;
+}
+.negrox2 {
+	COLOR: #000000; FONT-SIZE: 17px; font-family: "Arial Narrow";
+}
+.negrox3 {
+	FONT-WEIGHT: bold; COLOR: #000000; FONT-SIZE: 17px; font-family: "Arial Narrow";
+}
+.negrox4 {
+	COLOR: #000000; FONT-SIZE: 19px; font-family: "Arial Narrow";
+}
+.negrox5 {
+	FONT-WEIGHT: bold; COLOR: #000000; FONT-SIZE: 19px; font-family: "Arial Narrow";
+}
+.negrox6 {
+	COLOR: #000000; FONT-SIZE: 21px; font-family: "Arial Narrow";
+}
+.negrox7 {
+	FONT-WEIGHT: bold; COLOR: #000000; FONT-SIZE: 21px; font-family: "Arial Narrow";
+}
+.plomox {
+	FONT-WEIGHT: bold; COLOR: #687982; FONT-SIZE: 14px; font-family: "Arial Narrow";
+}
+.plomox2 {
+	
+	FONT-SIZE: 16px;
+	font-style: normal;
+	font-weight: 400;
+}
+.plomox3 {
+	FONT-WEIGHT: bold; COLOR: #687982; FONT-SIZE: 17px; font-family: "Arial Narrow";
+}
+.plomox4 {
+	COLOR: #687982; FONT-SIZE: 19px; font-family: "Arial Narrow";
+}
+.plomox5 {
+	FONT-WEIGHT: bold; COLOR: #687982; FONT-SIZE: 19px; font-family: "Arial Narrow";
+}
+.plomox6 {
+	COLOR: #687982; FONT-SIZE: 21px; font-family: "Arial Narrow";
+}
+.plomox7 {
+	FONT-WEIGHT: bold; COLOR: #687982; FONT-SIZE: 21px; font-family: "Arial Narrow";
+}
+.blancox7 {
+	FONT-WEIGHT: bold; COLOR: #FFFFFF; FONT-SIZE: 21px; font-family: "Arial Narrow";
+}
+.azulx {
+	FONT-WEIGHT: bold; COLOR: #006699; FONT-SIZE: 14px; font-family: "Arial Narrow";
+}
+.azulx2 {
+	COLOR: #006699; FONT-SIZE: 17px; font-family: "Arial Narrow";
+}
+.azulx3 {
+	FONT-WEIGHT: bold; COLOR: #006699; FONT-SIZE: 17px; font-family: "Arial Narrow";
+}
+.azulx4 {
+	COLOR: #006699; FONT-SIZE: 19px; font-family: "Arial Narrow";
+}
+.azulx5 {
+	FONT-WEIGHT: bold; COLOR: #006699; FONT-SIZE: 19px; font-family: "Arial Narrow";
+}
+.azulx6 {
+	COLOR: #006699; FONT-SIZE: 21px; font-family: "Arial Narrow";
+}
+.azulx7 {
+	FONT-WEIGHT: bold; COLOR: #006699; FONT-SIZE: 21px; font-family: "Arial Narrow";
+}
+.orox4 {
+	COLOR: #F5D805; FONT-SIZE: 19px; font-family: "Arial Narrow";
+}
+.orox5 {
+	FONT-WEIGHT: bold; COLOR: #F5D805; FONT-SIZE: 19px; font-family: "Arial Narrow";
+}
+.orox6 {
+	COLOR: #F5D805; FONT-SIZE: 21px; font-family: "Arial Narrow";
+}
+.orox7 {
+	FONT-WEIGHT: bold; COLOR: #F5D805; FONT-SIZE: 21px; font-family: "Arial Narrow";
+}
+.orox8 {
+	COLOR: #F5D805; FONT-SIZE: 23px; font-family: "Arial Narrow";
+}
+.orox9 {
+	FONT-WEIGHT: bold; COLOR: #F5D805; FONT-SIZE: 23px; font-family: "Arial Narrow";
+}
+.rojox {
+	FONT-WEIGHT: bold; COLOR: #FF0000; FONT-SIZE: 14px; font-family: "Arial Narrow";
+}
+.rojox2 {
+	COLOR: #FF0000; FONT-SIZE: 17px; font-family: "Arial Narrow";
+}
+.rojox3 {
+	FONT-WEIGHT: bold; COLOR: #FF0000; FONT-SIZE: 17px; font-family: "Arial Narrow";
+}
+.rojox4 {
+	COLOR: #FF0000; FONT-SIZE: 19px; font-family: "Arial Narrow";
+}
+.rojox5 {
+	FONT-WEIGHT: bold; COLOR: #FF0000; FONT-SIZE: 19px; font-family: "Arial Narrow";
+}
+.moradox6 {
+	COLOR: #6259AA; FONT-SIZE: 21px; font-family: "Arial Narrow";
+}
+.moradox7 {
+	FONT-WEIGHT: bold; COLOR: #6259AA; FONT-SIZE: 21px; font-family: "Arial Narrow";
+}
+.verdex4 {
+	COLOR: #339900; FONT-SIZE: 19px; font-family: "Arial Narrow";
+}
+.verdex5 {
+	FONT-WEIGHT: bold; COLOR: #339900; FONT-SIZE: 19px; font-family: "Arial Narrow";
+}
+.verdex6 {
+	COLOR: #339900; FONT-SIZE: 21px; font-family: "Arial Narrow";
+}
+.verdex7 {
+	FONT-WEIGHT: bold; COLOR: #339900; FONT-SIZE: 21px; font-family: "Arial Narrow";
+}
+.verdex8 {
+	COLOR: #339900; FONT-SIZE: 23px; font-family: "Arial Narrow";
+}
+.verdex9 {
+	FONT-WEIGHT: bold; COLOR: #339900; FONT-SIZE: 23px; font-family: "Arial Narrow";
+}

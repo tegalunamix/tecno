@@ -3,7 +3,7 @@
 <?php require('deriz.php'); ?>  
         <div id="middle">
         	<div class="moduletable">
-            HHH
+            GABINO PENDEIVIS
             </div>
             <div id="system-message-container">
             dddddd
